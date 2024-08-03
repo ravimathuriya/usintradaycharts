@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  background-color: black;
+  color: white;
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+section{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+section div{
+  margin: 5px;
+  font-size: 18px;
+}
+
+section input, select{
+  font-size: 15px;
+}
+
+section button{
+  background-color: blue;
+  color: white;
+  border: 1px solid white;
+  border-radius: 8px;
+  padding: 5px 20px 5px 20px;
+  margin-left: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.stock{
+  margin-top: 15px;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.stock div{
+  margin-left: 20px;
+}
