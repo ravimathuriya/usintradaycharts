@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/usintradaycharts/static/css/main.6ccbdd77.css",
+    "main.js": "/usintradaycharts/static/js/main.57023ad0.js",
+    "static/js/453.a3ec44f5.chunk.js": "/usintradaycharts/static/js/453.a3ec44f5.chunk.js",
+    "index.html": "/usintradaycharts/index.html",
+    "main.6ccbdd77.css.map": "/usintradaycharts/static/css/main.6ccbdd77.css.map",
+    "main.57023ad0.js.map": "/usintradaycharts/static/js/main.57023ad0.js.map",
+    "453.a3ec44f5.chunk.js.map": "/usintradaycharts/static/js/453.a3ec44f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccbdd77.css",
+    "static/js/main.57023ad0.js"
+  ]
+}
